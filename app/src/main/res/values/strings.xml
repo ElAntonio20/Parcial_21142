@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parcial_21142</string>
+    <string name="preferencias_title">Preferencias</string>
+    <string name="nombres_guardados_title">Nombres guardados</string>
+</resources>
